@@ -35,4 +35,3 @@ In this project, I performed an end-to-end analysis and prediction of cardiovasc
 ### 📈 Outcome:
 
 Built multiple models to predict cardiovascular disease likelihood and explored unsupervised techniques to segment patient profiles based on clinical features. This project demonstrated how **machine learning can support early diagnosis and risk assessment in healthcare.**
-
